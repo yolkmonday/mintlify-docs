@@ -1,7 +1,7 @@
 {
   "$schema": "https://mintlify.com/docs.json",
   "theme": "mint",
-  "name": "Mint Starter Kit",
+  "name": "Rekanpay",
   "colors": {
     "primary": "#16A34A",
     "light": "#07C983",
@@ -16,20 +16,20 @@
           {
             "group": "Perkenalan",
             "pages": [
-              "docs/1.tentang-rekanpay",
-              "docs/2.metode-pembayaran"
+              "docs/tentang-rekanpay",
+              "docs/metode-pembayaran"
             ]
           },
           {
             "group": "Akun",
             "pages": [
-              "docs/akun/0.index"
+              "docs/akun/index"
             ]
           },
           {
             "group": "API",
             "pages": [
-              "docs/api/0.index"
+              "docs/api/index"
             ]
           }
         ]
@@ -44,7 +44,7 @@
     "links": [
       {
         "label": "Support",
-        "href": "mailto:hi@mintlify.com"
+        "href": "mailto:support@rekanpay.id"
       }
     ],
     "primary": {

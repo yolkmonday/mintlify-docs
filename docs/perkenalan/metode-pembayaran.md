@@ -1,3 +1,9 @@
+---
+title: Metode Pembayaran
+description: "Metode Pembayaran Rekanpay"
+---
+
+
 # Metode pembayaran
 
 Berikut channel transaksi yang tersedia di RekanPay

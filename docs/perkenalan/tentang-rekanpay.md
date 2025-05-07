@@ -1,3 +1,8 @@
+---
+title: Tentang Rekanpay
+description: "Informasi Rekanpay"
+---
+
 # Rekanpay
 ::block-hero
 ---
