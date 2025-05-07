@@ -16,23 +16,14 @@
           {
             "group": "Perkenalan",
             "pages": [
-              "docs/tentang-rekanpay",
-              "docs/metode-pembayaran"
-            ]
-          },
-          {
-            "group": "Akun",
-            "pages": [
-              "docs/akun/index"
-            ]
-          },
-          {
-            "group": "API",
-            "pages": [
-              "docs/api/index"
+              "docs/tentang-rekanpay"
             ]
           }
         ]
+      },
+      {
+        "tab": "API Playground",
+        "openapi": "https://gist.githubusercontent.com/yolkmonday/d20f0d913cccc7cb6e982535a9d7972a/raw/2c06946155f557ad70d20ac0cc8f9a8811e1f3ee/rekanpay.json"
       }
     ]
   },
