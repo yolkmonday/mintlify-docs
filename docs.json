@@ -54,10 +54,6 @@
     }
   },
   "footer": {
-    "socials": {
-      "x": "#",
-      "github": "#",
-      "linkedin": "#"
-    }
+    "socials": {}
   }
 }
